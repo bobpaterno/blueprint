@@ -1,0 +1,5 @@
+[
+{"name":["tile"], "rate":["5.5"], "photo":[{"size":"1", "originalFilename":"tile-DELETE.jpg", "path":"/Users/rpmac/Documents/Code/blueprint/test/fixtures/copy/tile-DELETE.jpg"}],"_id":"0123456789abcdef01234567"},
+{"name":["carpet"], "rate":["4.5"], "photo":[{"size":"1", "originalFilename":"carpet-DELETE.jpg", "path":"/Users/rpmac/Documents/Code/blueprint/test/fixtures/copy/carpet-DELETE.jpg"}],"_id":"0123456789abcdef01234569"}
+
+]
